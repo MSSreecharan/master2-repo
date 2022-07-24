@@ -1,0 +1,1 @@
+ssh -i "Gentlemen.pem" ubuntu@ec2-174-129-142-163.compute-1.amazonaws.com
